@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Web Development",
+        "logo": "https://www.creativeitinstitute.com/images/course/course_1663052056.jpg",
+        "price": 300,
+        "details": "Web development is one of the high paying professions. A web developer in Bangladesh earns around 2-3 lakhs or more on an average. This sector is also very demanding for outsourcing or freelancing. If you have passion for programming, then you can make a great career by doing web development course.",
+        "tittle": "Want to create live websites?"
+    
+    },
+    {
+        "id": 2,
+        "name": "Machine Learning",
+        "logo": "https://www.creativeitinstitute.com/images/course/course_1662804460.jpg",
+        "price": 600,
+        "details": "Using machine learning to predict the death rate of Corona in 2020-21, the data is about 92 percent accurate. Various organizations are now getting very good results in commercial, business using Machine Learning. So if you want to work in this trendy sector, then Machine learning course is for you.",
+        "tittle": "Want to learn Machine Learning?"
+    
+    },
+    {
+        "id": 3,
+        "name": "Cyber Security",
+        "logo": "https://www.creativeitinstitute.com/images/course/course_1662805700.jpg",
+        "price": 800,
+        "details": "According to a survey, only in 2021, the total loss of various companies due to cyber attacks around the world is about 6 trillion dollars. Another survey shows that during this crisis of Covid-19, the amount of cybercrime has increased by almost 600 percent! From here we can get an idea of ​​the increasing demand for cyber security analysts or cyber engineers to increase cyber security. Ethical hackers are getting smart salaries in keeping with the times. So choose our cyber security course to make a career as a hacker.",
+        "tittle": "Want to learn Cyber security?"
+    
+    },
+    {
+        "id": 4,
+        "name": "UI/UX Design",
+        "logo": "https://www.creativeitinstitute.com/images/course/course_1662637290.jpg",
+        "price": 100,
+        "details": "According to a survey, about 77 percent of online businesses shut down because their website is not user friendly. The magician of making a web site or app user friendly is a UX/UI designer. If you have good design sense and feel comfortable working with graphical elements then this course is for you.",
+        "tittle": "To build design talent as a skill"
+    
+    },
+    {
+        "id": 5,
+        "name": "Android Development",
+        "logo": "https://www.creativeitinstitute.com/images/course/course_1663052092.jpg",
+        "price": 900,
+        "details": "As the demand for mobiles increases across the world, the importance of apps is increasing in parallel. Along with that, the work of app development has also increased a lot. Do you want to create a new app? So why the delay! Build your android app development career with skilled mentors and updated software.",
+        "tittle": "Want to make apps for Play Store?"
+    
+    },
+    {
+        "id": 6,
+        "name": "Digital Marketing",
+        "logo": "https://www.creativeitinstitute.com/images/course/course_1662724358.jpg",
+        "price": 500,
+        "details": "Digital marketing is the trending topic in the tech dependent world. From daily necessities to cars and houses, most people now turn to the internet to buy anything. According to Google, about 87 percent of people search Amazon or Google before buying anything. So enroll in digital marketing course to get success in business or learn online marketing.",
+        "tittle": "Learn how to build a career on an online platform"
+    
+    }
+]
