@@ -37,6 +37,7 @@
     },
     {
         "id": 5,
+        "wow": "nice",
         "name": "Android Development",
         "logo": "https://www.creativeitinstitute.com/images/course/course_1663052092.jpg",
         "price": 900,
